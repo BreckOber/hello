@@ -11,6 +11,9 @@
 
      printf("Brecken Obermueller!\n");
      printf("Computer Science Major\n");
+     
+     printf("Ellie Allen!\n");
+     printf("Computer Science\n");
 
      return 0;
  }
