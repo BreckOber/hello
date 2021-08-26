@@ -2,7 +2,9 @@
  * Author: Brecken Obermueller
  * Date: 2021/08/26
  *
- * 
+ * A program the outputs my name and major
+ * along with my partner's name and major
+ *
  * */
  #include <stdlib.h>
  #include <stdio.h>
